@@ -1,0 +1,1 @@
+# 3. Elaborar um programa Python para calcular a área de um triângulo.

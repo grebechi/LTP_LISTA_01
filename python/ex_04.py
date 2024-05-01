@@ -1,0 +1,1 @@
+# 4. Elaborar um programa Python para imprimir os divisores de um número.

@@ -1,0 +1,1 @@
+# 8. Elaborar um programa Python para imprimir a tabuada de um número.

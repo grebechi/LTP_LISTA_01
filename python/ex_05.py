@@ -1,0 +1,1 @@
+# 5. Elaborar um programa Python para verificar se um número é par ou impar.

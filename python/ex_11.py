@@ -1,0 +1,1 @@
+# 11. Elaborar um programa Python para calcular a soma de 1 até 50.

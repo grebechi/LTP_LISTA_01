@@ -1,0 +1,1 @@
+# 13. Elaborar uma função em Python para computar o maior e o menorelemento de uma lista.

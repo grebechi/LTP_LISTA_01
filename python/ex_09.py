@@ -1,0 +1,1 @@
+# 9. Elaborar um programa Python para ler 10 números e imprimir a soma, o maior e o menor desses números.
